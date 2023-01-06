@@ -5,9 +5,9 @@ import Slider from './Component/Slider';
 function App() {
   return (
     <>
-    <Menu />
+    <Menu name="scroll"/>
     <Slider/>
-    <h1>Hello World !</h1>
+
     </>
     
   );
